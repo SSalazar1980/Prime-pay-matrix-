@@ -1,0 +1,29 @@
+
+[
+  {
+    "game": "Lakers vs Celtics",
+    "confidence": 92,
+    "tier": 1,
+    "grade": "A",
+    "ev": 13.2,
+    "underdog": false,
+    "bayesian_shift": 10,
+    "sharp": true,
+    "playableUpTo": "-3.5",
+    "mental": {"Alpha": 3, "Dog": 2, "Killer": 1, "Shrinker": 0},
+    "sport": "NBA"
+  },
+  {
+    "game": "Iowa vs Michigan",
+    "confidence": 74,
+    "tier": 2,
+    "grade": "B",
+    "ev": 8.7,
+    "underdog": true,
+    "bayesian_shift": 6,
+    "sharp": false,
+    "playableUpTo": "+6.5",
+    "mental": {"Alpha": 2, "Dog": 4, "Killer": 1, "Shrinker": 1},
+    "sport": "CFB"
+  }
+]
